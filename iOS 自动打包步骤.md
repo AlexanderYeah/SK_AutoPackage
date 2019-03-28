@@ -45,7 +45,7 @@
 
 * 3 手动输入4 然后一路敲击回车键就可以了
 
-
+![](https://github.com/AlexanderYeah/SK_AutoPackage/blob/master/fastlane.png)
 
 
 
@@ -142,3 +142,6 @@ end
        user_key = "bbbbbb"
        pgyer(api_key:"#{api_key}",user_key:"#{user_key}")
 
+![](https://github.com/AlexanderYeah/SK_AutoPackage/blob/master/success.png)  
+
+![](https://github.com/AlexanderYeah/SK_AutoPackage/blob/master/pgyfloder.png)
